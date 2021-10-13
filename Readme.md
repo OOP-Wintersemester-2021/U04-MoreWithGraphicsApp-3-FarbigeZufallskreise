@@ -7,7 +7,9 @@ Position auf der Zeichenfläche. Die Kreise müssen alle innerhalb der
 Zeichenfläche dargestellt werden. Verwenden Sie die in der Vorlesung
 vorgestellte Klasse `Random` um alle Zufallswerte zu erzeugen.
 
-![Random Circles](docs/screenshot_randomCircles.png)
+| So sollen die Zufallskreise aussehen |
+|:----:|
+| ![Random Circles](./docs/screenshot_randomCircles.png) |
 
 Implementieren Sie eine eigene Methode pro zufälliger Eigenschaft der
 Kreise und speichern Sie den Rückgabewert in einer lokalen Variable,
