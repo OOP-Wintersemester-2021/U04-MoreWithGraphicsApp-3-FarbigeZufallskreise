@@ -1,4 +1,4 @@
-# U13 | Farbige Zufallskreise
+# U12 | Farbige Zufallskreise
 
 Entwickeln Sie eine `GraphicsApp`, die 100 farbige Kreise auf der
 Zeichenfläche darstellt. Jeder der Kreise hat eine zufällige Farbe,
