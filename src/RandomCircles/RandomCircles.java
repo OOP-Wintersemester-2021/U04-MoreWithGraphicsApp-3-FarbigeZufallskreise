@@ -14,7 +14,7 @@ public class RandomCircles extends GraphicsApp {
     /* Private Konstanten */
     private static final int CANVAS_HEIGHT = 800;
     private static final int CANVAS_WIDTH = 800;
-    private static final int FRAME_RATE = 60;
+    private static final int FRAME_RATE = 2;
     private static final Color BACKGROUND_COLOR = Colors.WHITE;
     private static final int MAX_CIRCLES = 100;
     private static final int MIN_CIRCLE_WIDTH = 5;
